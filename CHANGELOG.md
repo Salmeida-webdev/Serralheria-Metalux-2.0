@@ -1,5 +1,13 @@
 # Histórico de versões
 
+## 1.2.0 — 24/11/2026
+
+- Substituída a campanha expirada de outubro por uma identidade Black Friday, mantendo o preto e o dourado da Metalux.
+- Removidas do site as referências a 10% de desconto, preços promocionais e validade de outubro.
+- Refeitos o topo, o destaque do hero, o selo sobre a foto e a faixa de campanha sem valores de desconto.
+- Atualizados os metadados de compartilhamento, o FAQ, os textos do formulário e as mensagens de orçamento pelo WhatsApp.
+- Atualizada a proteção de publicação para bloquear a campanha sazonal após 27/11/2026.
+
 ## 1.1.7 — 23/10/2026
 
 - Corrigida a sobreposição da legenda da foto sobre o selo de desconto; o selo agora fica à frente da faixa, sem o corte preto.

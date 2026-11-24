@@ -8,7 +8,7 @@
 | Instagram | `@metalux._.serralheria` |
 | Área atendida | Mauá e região, São Paulo |
 | WhatsApp atual | (11) 94228-1355; atualizado pelo usuário nesta etapa |
-| Oferta | 10% de desconto em tudo durante outubro; validade informada até 31/10/2026; consultar condições |
+| Campanha | Black Friday Metalux; identidade sazonal na página e chamada para orçamento sob medida, sem preços ou valores de desconto |
 | Serviços | Portões, grades/proteções, corrimãos/parapeitos, projetos em metal e armários/gabinetes em alumínio |
 | Objetivo | Gerar pedidos de orçamento qualificados iniciados pelo WhatsApp |
 | Qualificação | Nome, cidade/bairro e serviço; descrição opcional |
@@ -18,13 +18,13 @@
 ## Premissas não confirmadas externamente
 
 - O telefone (11) 94228-1355 é o WhatsApp que deve aparecer publicamente para a Metalux.
-- A campanha de outubro termina em 31/10/2026, conforme materiais anteriores desta conversa.
+- A Black Friday é comunicada como tema de campanha; não há desconto, preço promocional nem condição comercial anunciada no site.
 - “Mauá e região” continua sendo a área de atendimento atual; as cidades atendidas não foram listadas.
 - As imagens foram fornecidas pelo usuário; a autorização do cliente para uso comercial não foi verificada separadamente.
-- As condições específicas da promoção não foram detalhadas, por isso a página diz “consulte condições” e não inventa exclusões, formas de pagamento ou limites.
+- O site não anuncia valores ou percentuais de desconto e direciona o visitante ao atendimento para solicitar orçamento.
 
 ## Dependências para o lançamento
 
-- URL/domínio final e site Netlify escolhido ou criado pela pessoa que executará o script.
-- Confirmação final do telefone, validade/condições da promoção, região atendida e autorização das fotos.
+- Domínio publicado: `https://serralheriametalux.com.br/`.
+- Confirmar com a Metalux o telefone, as cidades atendidas e a autorização de uso comercial das fotos antes de novas peças públicas.
 - IDs de GTM, GA4 e/ou Meta Pixel se o cliente quiser medição nessas plataformas. Não há IDs fornecidos neste briefing.
