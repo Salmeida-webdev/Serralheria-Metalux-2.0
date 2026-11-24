@@ -7,7 +7,8 @@
 - [x] Perfil `@metalux._.serralheria` visível no rodapé e vinculado ao Instagram.
 - [x] Botão flutuante do WhatsApp com rótulo acessível, mensagem inicial e registro do clique.
 - [x] Legenda do projeto principal separada da foto em faixa de alto contraste.
-- [x] Oferta consistente: 10% de desconto em tudo, durante outubro, até 31/10/2026; condições para consultar.
+- [x] Campanha Black Friday identificada em toda a página, sem preços, percentuais ou promessas de desconto.
+- [x] Mensagens de orçamento no WhatsApp identificam a campanha sem oferecer desconto.
 - [x] Formulário exige nome, cidade/bairro e serviço; detalhes são opcionais.
 - [x] Mensagem WhatsApp codificada corretamente, com UTMs quando existentes.
 - [x] O `dataLayer` registra o clique e não recebe nome, telefone nem descrição livre.
@@ -21,10 +22,10 @@
 
 - [ ] Conferir visualmente em navegador real no celular e desktop; Chromium/Lighthouse não está disponível no ambiente de edição atual.
 - [ ] Medir PageSpeed Insights/Lighthouse depois de hospedar; nenhum resultado de Core Web Vitals foi presumido.
-- [ ] Confirmar com a Metalux telefone, condições e validade da promoção, cidades atendidas e direitos das fotos.
+- [ ] Confirmar com a Metalux telefone, cidades atendidas e direitos de uso comercial das fotos antes de novas peças públicas.
 - [ ] Após definir o domínio, configurar canonical e Open Graph absoluto e testar o preview do link.
 - [ ] Se usar GTM/GA4/Meta Pixel, instalar os IDs oficiais, configurar consentimento aplicável e testar eventos sem enviar dados pessoais.
-- [ ] Fazer deploy de prévia no projeto correto, revisar, e somente então autorizar o deploy de produção pelo script.
+- [ ] Revisar a prévia da Black Friday em desktop e celular antes de publicar em produção.
 
 ## Critério de conversão
 

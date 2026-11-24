@@ -4,10 +4,10 @@ $ProjectRoot = $PSScriptRoot
 $PublishDir = Join-Path $ProjectRoot 'public'
 $VersionFile = Join-Path $ProjectRoot 'VERSION.txt'
 $Version = (Get-Content -LiteralPath $VersionFile -Raw).Trim()
-$OfferEnd = [DateTimeOffset]::Parse('2026-11-01T00:00:00-03:00')
+$CampaignEnd = [DateTimeOffset]::Parse('2026-11-28T00:00:00-03:00')
 
-if ([DateTimeOffset]::Now -ge $OfferEnd) {
-    throw 'A promoção de outubro expirou. Atualize a oferta, o prazo e a versão antes de publicar.'
+if ([DateTimeOffset]::Now -ge $CampaignEnd) {
+    throw 'A campanha de Black Friday terminou. Atualize o conteúdo sazonal e a versão antes de publicar.'
 }
 if (-not (Test-Path -LiteralPath (Join-Path $PublishDir 'index.html'))) {
     throw 'Não encontrei public\index.html. Execute o script a partir da pasta do projeto extraído.'
